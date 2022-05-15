@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FoodSpawn
+comment1.params=
+comment1.target=FoodSpawn()
+comment2.params=xCoord\ yCoord
+comment2.target=FoodSpawn(double,\ double)
+comment3.params=xCoord\ yCoord\ height\ width
+comment3.target=FoodSpawn(double,\ double,\ double,\ double)
+numComments=4

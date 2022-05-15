@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=x\ y
+comment1.target=Player(double,\ double)
+comment2.params=
+comment2.target=void\ move()
+comment3.params=ddx\ ddy
+comment3.target=void\ accelerate(double,\ double)
+comment4.params=
+comment4.target=void\ bounceX()
+comment5.params=
+comment5.target=void\ bounceY()
+numComments=6

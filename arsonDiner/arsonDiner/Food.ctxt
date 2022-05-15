@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Food
+comment1.params=
+comment1.target=Food()
+comment2.params=isCarried\ xCoord\ yCoord
+comment2.target=Food(boolean,\ double,\ double)
+numComments=3

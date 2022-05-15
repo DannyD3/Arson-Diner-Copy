@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=
+comment1.target=Customer()
+comment2.params=xCoord\ yCoord
+comment2.target=Customer(double,\ double)
+numComments=3
